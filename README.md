@@ -6,6 +6,8 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Developer](https://img.shields.io/badge/Developer-Emre%20Taş-orange)](https://www.alegoai.com/)
 
+
+
 ## 📖 Table of Contents
 
 - [About](#about)
@@ -161,7 +163,7 @@ If you find these workflows helpful and want to support the project:
 5. **Import** into your N8N instance
 6. **Configure** credentials and settings
 7. **Activate** and start automating!
-
+ thank you for everything
 ---
 
 **Made with ❤️ by Emre Taş**
