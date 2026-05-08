@@ -1,6 +1,6 @@
 # AI Workflow Hub 🤖
 
-> **2000+ ücretsiz N8N AI otomasyon workflow'ları. Keşfedin, kopyalayın ve kendi projelerinizde kullanın.**
+2000 workflow 
 
 [![Website](https://img.shields.io/badge/Website-alegoai.com-blue)](https://www.alegoai.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
